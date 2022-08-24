@@ -13,4 +13,4 @@ Screenshots of the project:
 ![Screenshot (20)](https://user-images.githubusercontent.com/63579878/186474461-4072d739-df8f-4048-b2a1-c30fe7efc3cc.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/63579878/186474579-48fdbf01-60f9-4667-9020-1d74098458ad.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/63579878/186474587-3866bd7d-0b6f-49ff-86df-58198e24f973.png)
-![Screenshot (24)](https://user-images.githubusercontent.com/63579878/186474835-f7aa123d-0158-4a6c-81a4-3700f66650cd.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/63579878/186475163-0453a1d4-a1ef-4fcf-9819-013aad048184.png)
